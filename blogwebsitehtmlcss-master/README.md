@@ -1,0 +1,1 @@
+A simple bolg website made using html,css.
